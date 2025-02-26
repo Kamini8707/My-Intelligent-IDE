@@ -83,7 +83,7 @@ python main.py
 ---
 
 ## 📂 Project Structure
-
+```bash
 intelligent-ide/
 │── main.py              # Main application file
 │── code_generator.py    # AI-powered code generation module
@@ -91,7 +91,9 @@ intelligent-ide/
 │── tester.py            # Testing module
 │── documentation.py     # Documentation module
 │── README.md            # Project documentation
+```
 
+---
 
 ## 🔧 Troubleshooting
 
